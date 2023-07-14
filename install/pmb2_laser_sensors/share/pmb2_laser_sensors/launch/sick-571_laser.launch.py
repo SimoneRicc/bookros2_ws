@@ -1,0 +1,1 @@
+/home/simone/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_laser_sensors/launch/sick-571_laser.launch.py

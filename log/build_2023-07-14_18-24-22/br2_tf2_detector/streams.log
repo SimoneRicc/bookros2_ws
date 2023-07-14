@@ -1,0 +1,93 @@
+[0.024s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_tf2_detector
+[0.128s] -- The C compiler identification is GNU 11.3.0
+[0.237s] -- The CXX compiler identification is GNU 11.3.0
+[0.256s] -- Detecting C compiler ABI info
+[0.435s] -- Detecting C compiler ABI info - done
+[0.457s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.458s] -- Detecting C compile features
+[0.475s] -- Detecting C compile features - done
+[0.489s] -- Detecting CXX compiler ABI info
+[0.686s] -- Detecting CXX compiler ABI info - done
+[0.713s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.714s] -- Detecting CXX compile features
+[0.715s] -- Detecting CXX compile features - done
+[0.726s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.041s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.182s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.241s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[1.338s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.348s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.364s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.398s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.449s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.659s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.665s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.834s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.889s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.992s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.013s] -- Looking for pthread.h
+[2.191s] -- Looking for pthread.h - found
+[2.195s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.369s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.371s] -- Found Threads: TRUE  
+[2.792s] -- Found tf2_ros: 0.25.2 (/opt/ros/humble/share/tf2_ros/cmake)
+[3.890s] -- Found tf2_geometry_msgs: 0.25.2 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[3.921s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[3.925s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.925s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.954s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.151s] -- Found visualization_msgs: 4.2.3 (/opt/ros/humble/share/visualization_msgs/cmake)
+[4.497s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.700s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.704s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.705s] -- Configured cppcheck include dirs: /home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector/include
+[4.705s] -- Configured cppcheck exclude dirs and/or files: 
+[4.707s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.707s] -- Configured cpplint exclude dirs and/or files: 
+[4.708s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.709s] -- Added test 'lint_cmake' to check CMake code style
+[4.710s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.713s] -- Added test 'uncrustify' to check C / C++ code style
+[4.714s] -- Configured uncrustify additional arguments: 
+[4.714s] -- Added test 'xmllint' to check XML markup files
+[4.727s] -- Configuring done
+[4.811s] -- Generating done
+[4.816s] -- Build files have been written to: /home/simone/bookros2_ws/build/br2_tf2_detector
+[4.838s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_tf2_detector
+[4.839s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+[4.906s] [ 12%] [32mBuilding CXX object CMakeFiles/br2_tf2_detector.dir/src/br2_tf2_detector/ObstacleDetectorNode.cpp.o[0m
+[19.581s] [ 25%] [32mBuilding CXX object CMakeFiles/br2_tf2_detector.dir/src/br2_tf2_detector/ObstacleDetectorImprovedNode.cpp.o[0m
+[34.862s] [ 37%] [32mBuilding CXX object CMakeFiles/br2_tf2_detector.dir/src/br2_tf2_detector/ObstacleMonitorNode.cpp.o[0m
+[42.972s] [ 50%] [32m[1mLinking CXX shared library libbr2_tf2_detector.so[0m
+[44.586s] [ 50%] Built target br2_tf2_detector
+[44.609s] [ 62%] [32mBuilding CXX object CMakeFiles/detector.dir/src/detector_main.cpp.o[0m
+[50.042s] [ 75%] [32m[1mLinking CXX executable detector[0m
+[50.628s] [ 75%] Built target detector
+[50.656s] [ 87%] [32mBuilding CXX object CMakeFiles/detector_improved.dir/src/detector_improved_main.cpp.o[0m
+[56.121s] [100%] [32m[1mLinking CXX executable detector_improved[0m
+[56.709s] [100%] Built target detector_improved
+[56.728s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+[56.772s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector
+[56.784s] -- Install configuration: ""
+[56.784s] -- Execute custom install script
+[56.784s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/libbr2_tf2_detector.so
+[56.798s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector
+[56.812s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector_improved
+[56.825s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_basic.launch.py
+[56.836s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_improved.launch.py
+[56.854s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/package_run_dependencies/br2_tf2_detector
+[56.868s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/parent_prefix_path/br2_tf2_detector
+[56.876s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.sh
+[56.889s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.dsv
+[56.904s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.sh
+[56.914s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.dsv
+[56.946s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.bash
+[56.955s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.sh
+[56.980s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.zsh
+[56.994s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.dsv
+[57.014s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.dsv
+[57.025s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/packages/br2_tf2_detector
+[57.039s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig.cmake
+[57.050s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig-version.cmake
+[57.061s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.xml
+[57.105s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector

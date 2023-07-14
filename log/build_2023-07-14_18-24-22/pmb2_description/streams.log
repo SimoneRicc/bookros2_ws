@@ -1,0 +1,150 @@
+[0.025s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_description': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_description
+[0.118s] -- The C compiler identification is GNU 11.3.0
+[0.228s] -- The CXX compiler identification is GNU 11.3.0
+[0.240s] -- Detecting C compiler ABI info
+[0.456s] -- Detecting C compiler ABI info - done
+[0.487s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.489s] -- Detecting C compile features
+[0.491s] -- Detecting C compile features - done
+[0.499s] -- Detecting CXX compiler ABI info
+[0.636s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.663s] -- Detecting CXX compile features
+[0.664s] -- Detecting CXX compile features - done
+[0.670s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.071s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.233s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.456s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.512s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.575s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.6", minimum required is "3.6") 
+[1.600s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.6", minimum required is "3.5") 
+[1.600s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.600s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.600s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.645s] -- Found PythonExtra: .so  
+[1.769s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.780s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.783s] -- Added test 'lint_cmake' to check CMake code style
+[1.785s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.802s] -- Added test 'xmllint' to check XML markup files
+[1.803s] -- Configuring done
+[1.803s] -- Generating done
+[1.805s] -- Build files have been written to: /home/simone/bookros2_ws/build/pmb2_description
+[1.843s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_description' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_description
+[1.847s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_description': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_description -- -j5 -l5
+[1.985s] Built target ament_cmake_python_symlink_pmb2_description
+[2.614s] running egg_info
+[2.615s] creating pmb2_description.egg-info
+[2.616s] writing pmb2_description.egg-info/PKG-INFO
+[2.617s] writing dependency_links to pmb2_description.egg-info/dependency_links.txt
+[2.617s] writing top-level names to pmb2_description.egg-info/top_level.txt
+[2.618s] writing manifest file 'pmb2_description.egg-info/SOURCES.txt'
+[2.621s] reading manifest file 'pmb2_description.egg-info/SOURCES.txt'
+[2.622s] writing manifest file 'pmb2_description.egg-info/SOURCES.txt'
+[2.677s] Built target ament_cmake_python_build_pmb2_description_egg
+[2.699s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_description' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_description -- -j5 -l5
+[2.878s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_description': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_description
+[2.889s] -- Install configuration: ""
+[2.890s] -- Execute custom install script
+[2.891s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/pythonpath.sh
+[2.908s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/pythonpath.dsv
+[2.920s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description-5.0.7-py3.10.egg-info/PKG-INFO
+[2.937s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description-5.0.7-py3.10.egg-info/SOURCES.txt
+[2.952s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description-5.0.7-py3.10.egg-info/dependency_links.txt
+[2.972s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description-5.0.7-py3.10.egg-info/top_level.txt
+[2.999s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description/__init__.py
+[3.059s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/config/joint_limits.yaml
+[3.099s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/gazebo/gazebo.urdf.xacro
+[3.133s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/launch/robot_state_publisher.launch.py
+[3.151s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/launch/show.launch.py
+[3.210s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/scripts/markers.material
+[3.230s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/textures/aruco-26_8cm.png
+[3.274s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/textures/aruco-582_8cm.png
+[3.299s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/textures/pal_logo_1_7cm.jpg
+[3.340s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/textures/pal_logo_2_7cm.jpg
+[3.376s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/Media/materials/textures/pal_logo_3_7cm.jpg
+[3.393s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/base/base.stl
+[3.407s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/base/base_collision.dae
+[3.418s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/base/base_ring.stl
+[3.450s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/base/high_resolution/base.stl
+[3.515s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/base/high_resolution/base_collision.stl
+[3.520s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/cameras_add_on/cameras_add_on.stl
+[3.559s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/cameras_add_on/cameras_add_on_collision.stl
+[3.595s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/dock/dock.stl
+[3.637s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/dock/dock_collision.stl
+[3.670s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/objects/antenna.stl
+[3.693s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/objects/cover.stl
+[3.721s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/objects/high_resolution/cover.stl
+[3.743s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/bumper.stl
+[3.776s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/bumper_collision.stl
+[3.787s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/elp_camera.stl
+[3.805s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/high_resolution/bumper.stl
+[3.831s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/high_resolution/hokuyo_urg_04lx_ug01.stl
+[3.862s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/high_resolution/sick_tim551.stl
+[3.873s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/high_resolution/srf05.stl
+[3.895s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/high_resolution/xtion_pro_live.stl
+[3.924s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/hokuyo_urg_04lx_ug01.stl
+[3.939s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/sick_tim551.stl
+[3.951s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/srf05.stl
+[3.961s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/structure_sensor.stl
+[3.974s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/sensors/xtion_pro_live.dae
+[3.985s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/caster_1.stl
+[3.996s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/caster_2.stl
+[4.005s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/high_resolution/caster_1.stl
+[4.014s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/high_resolution/caster_2.stl
+[4.024s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/high_resolution/wheel.stl
+[4.037s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/meshes/wheels/wheel.stl
+[4.047s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/robots/pmb2.urdf.xacro
+[4.061s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/ros2_control/ros2_control.urdf.xacro
+[4.074s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/base/base.urdf.xacro
+[4.084s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/base/base_sensors.urdf.xacro
+[4.097s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/base/footprint.yaml
+[4.109s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/cameras_add_on/cameras_add_on.urdf.xacro
+[4.123s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/deg_to_rad.xacro
+[4.130s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/dock/dock.urdf.xacro
+[4.139s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/materials.urdf.xacro
+[4.147s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/objects/antenna.urdf.xacro
+[4.161s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/objects/cover.urdf.xacro
+[4.174s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/bumper.gazebo.xacro
+[4.184s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/bumper.urdf.xacro
+[4.190s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/courier.urdf.xacro
+[4.199s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/elp_rgb.gazebo.xacro
+[4.209s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/elp_rgb.urdf.xacro
+[4.220s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/hokuyo_urg_04lx_ug01_laser.gazebo.xacro
+[4.233s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/hokuyo_urg_04lx_ug01_laser.urdf.xacro
+[4.244s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/imu.urdf.xacro
+[4.253s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/microphone.urdf.xacro
+[4.262s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/range.gazebo.xacro
+[4.270s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/range.urdf.xacro
+[4.279s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sensors.ros2_control.xacro
+[4.298s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim551_laser.gazebo.xacro
+[4.299s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim551_laser.urdf.xacro
+[4.310s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim561_laser.gazebo.xacro
+[4.329s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim561_laser.urdf.xacro
+[4.338s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim571_laser.gazebo.xacro
+[4.346s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/sick_tim571_laser.urdf.xacro
+[4.361s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/structure_sensor.gazebo.xacro
+[4.373s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/sensors/structure_sensor.urdf.xacro
+[4.386s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/wheels/caster.gazebo.xacro
+[4.400s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/wheels/caster.urdf.xacro
+[4.412s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/wheels/wheel.gazebo.xacro
+[4.424s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/wheels/wheel.ros2_control.xacro
+[4.435s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/urdf/wheels/wheel.urdf.xacro
+[4.445s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/ament_index/resource_index/package_run_dependencies/pmb2_description
+[4.454s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/ament_index/resource_index/parent_prefix_path/pmb2_description
+[4.463s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/ament_prefix_path.sh
+[4.472s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/ament_prefix_path.dsv
+[4.482s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/path.sh
+[4.494s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/environment/path.dsv
+[4.507s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/local_setup.bash
+[4.519s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/local_setup.sh
+[4.528s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/local_setup.zsh
+[4.537s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/local_setup.dsv
+[4.550s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/package.dsv
+[4.567s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/ament_index/resource_index/packages/pmb2_description
+[4.579s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/cmake/pmb2_descriptionConfig.cmake
+[4.584s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/cmake/pmb2_descriptionConfig-version.cmake
+[4.593s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_description/share/pmb2_description/package.xml
+[4.666s] Listing '/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description'...
+[4.666s] Compiling '/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages/pmb2_description/__init__.py'...
+[4.699s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_description' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/urdf_test:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_description

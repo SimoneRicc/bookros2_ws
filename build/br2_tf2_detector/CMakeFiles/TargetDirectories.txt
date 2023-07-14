@@ -1,0 +1,12 @@
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/uninstall.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/br2_tf2_detector_uninstall.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/br2_tf2_detector.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/detector.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/detector_improved.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/test.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/edit_cache.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/rebuild_cache.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/list_install_components.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/install.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/install/local.dir
+/home/simone/bookros2_ws/build/br2_tf2_detector/CMakeFiles/install/strip.dir

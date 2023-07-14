@@ -1,0 +1,1 @@
+/home/simone/bookros2_ws/build/hey5_description/ament_cmake_core/hey5_descriptionConfig-version.cmake

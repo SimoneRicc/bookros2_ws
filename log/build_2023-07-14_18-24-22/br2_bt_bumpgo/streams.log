@@ -1,0 +1,112 @@
+[0.022s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_bt_bumpgo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_bt_bumpgo
+[0.129s] -- The C compiler identification is GNU 11.3.0
+[0.235s] -- The CXX compiler identification is GNU 11.3.0
+[0.252s] -- Detecting C compiler ABI info
+[0.418s] -- Detecting C compiler ABI info - done
+[0.438s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.439s] -- Detecting C compile features
+[0.440s] -- Detecting C compile features - done
+[0.447s] -- Detecting CXX compiler ABI info
+[0.687s] -- Detecting CXX compiler ABI info - done
+[0.706s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.707s] -- Detecting CXX compile features
+[0.708s] -- Detecting CXX compile features - done
+[0.712s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.029s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.152s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.194s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[1.279s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.289s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.312s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.341s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.390s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.562s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.568s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.790s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.841s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.953s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.975s] -- Looking for pthread.h
+[2.207s] -- Looking for pthread.h - found
+[2.208s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.627s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.666s] -- Found Threads: TRUE  
+[3.692s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.540s] -- Found ZMQ: /usr/lib/x86_64-linux-gnu/libzmq.so  
+[4.550s] -- ZeroMQ found.
+[4.622s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.081s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.170s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.173s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.175s] -- Configured cppcheck include dirs: /home/simone/bookros2_ws/src/book_ros2/br2_bt_bumpgo/include
+[5.175s] -- Configured cppcheck exclude dirs and/or files: 
+[5.178s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.193s] -- Configured cpplint exclude dirs and/or files: 
+[5.196s] -- Added test 'lint_cmake' to check CMake code style
+[5.198s] -- Added test 'uncrustify' to check C / C++ code style
+[5.199s] -- Configured uncrustify additional arguments: 
+[5.200s] -- Added test 'xmllint' to check XML markup files
+[5.205s] -- Configuring done
+[5.423s] -- Generating done
+[5.485s] -- Build files have been written to: /home/simone/bookros2_ws/build/br2_bt_bumpgo
+[5.577s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_bt_bumpgo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_bt_bumpgo
+[5.578s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_bt_bumpgo -- -j5 -l5
+[5.878s] [  5%] [32mBuilding CXX object CMakeFiles/br2_forward_bt_node.dir/src/br2_bt_bumpgo/Forward.cpp.o[0m
+[5.881s] [ 11%] [32mBuilding CXX object CMakeFiles/br2_back_bt_node.dir/src/br2_bt_bumpgo/Back.cpp.o[0m
+[5.927s] [ 16%] [32mBuilding CXX object CMakeFiles/br2_is_obstacle_bt_node.dir/src/br2_bt_bumpgo/IsObstacle.cpp.o[0m
+[5.936s] [ 22%] [32mBuilding CXX object CMakeFiles/bt_bumpgo.dir/src/bt_bumpgo_main.cpp.o[0m
+[5.941s] [ 27%] [32mBuilding CXX object CMakeFiles/br2_turn_bt_node.dir/src/br2_bt_bumpgo/Turn.cpp.o[0m
+[49.135s] [ 33%] [32m[1mLinking CXX shared library libbr2_turn_bt_node.so[0m
+[50.299s] [ 33%] Built target br2_turn_bt_node
+[51.121s] [ 38%] [32m[1mLinking CXX shared library libbr2_back_bt_node.so[0m
+[51.734s] [ 44%] [32m[1mLinking CXX executable bt_bumpgo[0m
+[51.752s] [ 44%] Built target br2_back_bt_node
+[52.449s] [ 44%] Built target bt_bumpgo
+[59.093s] [ 50%] [32m[1mLinking CXX shared library libbr2_forward_bt_node.so[0m
+[59.849s] [ 50%] Built target br2_forward_bt_node
+[68.596s] [ 55%] [32m[1mLinking CXX shared library libbr2_is_obstacle_bt_node.so[0m
+[69.623s] [ 55%] Built target br2_is_obstacle_bt_node
+[69.672s] [ 61%] [32mBuilding CXX object tests/CMakeFiles/bt_forward.dir/bt_forward_main.cpp.o[0m
+[76.450s] [ 66%] [32m[1mLinking CXX executable bt_forward[0m
+[76.877s] [ 66%] Built target bt_forward
+[76.905s] [ 72%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[82.568s] [ 77%] [32m[1mLinking CXX static library libgtest.a[0m
+[82.660s] [ 77%] Built target gtest
+[82.696s] [ 83%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[84.248s] [ 88%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[84.302s] [ 88%] Built target gtest_main
+[84.336s] [ 94%] [32mBuilding CXX object tests/CMakeFiles/bt_action_test.dir/bt_action_test.cpp.o[0m
+[102.921s] [100%] [32m[1mLinking CXX executable bt_action_test[0m
+[104.180s] [100%] Built target bt_action_test
+[104.301s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_bt_bumpgo -- -j5 -l5
+[104.346s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_bt_bumpgo
+[104.356s] -- Install configuration: ""
+[104.357s] -- Execute custom install script
+[104.359s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_forward_bt_node.so
+[104.370s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_back_bt_node.so
+[104.381s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_turn_bt_node.so
+[104.393s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/libbr2_is_obstacle_bt_node.so
+[104.403s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/br2_bt_bumpgo/bt_bumpgo
+[104.415s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Back.hpp
+[104.425s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Forward.hpp
+[104.436s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/IsObstacle.hpp
+[104.448s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/include//br2_bt_bumpgo/Turn.hpp
+[104.461s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/behavior_tree_xml/bumpgo.xml
+[104.478s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/lib/br2_bt_bumpgo/bt_forward
+[104.496s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/package_run_dependencies/br2_bt_bumpgo
+[104.513s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/parent_prefix_path/br2_bt_bumpgo
+[104.525s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/ament_prefix_path.sh
+[104.540s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/ament_prefix_path.dsv
+[104.553s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/path.sh
+[104.573s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/environment/path.dsv
+[104.589s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.bash
+[104.603s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.sh
+[104.615s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.zsh
+[104.625s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/local_setup.dsv
+[104.640s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/package.dsv
+[104.654s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/ament_index/resource_index/packages/br2_bt_bumpgo
+[104.671s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/ament_cmake_export_include_directories-extras.cmake
+[104.684s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/ament_cmake_export_dependencies-extras.cmake
+[104.699s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/br2_bt_bumpgoConfig.cmake
+[104.715s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/cmake/br2_bt_bumpgoConfig-version.cmake
+[104.728s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_bumpgo/share/br2_bt_bumpgo/package.xml
+[104.752s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_bumpgo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_bt_bumpgo

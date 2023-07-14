@@ -1,0 +1,1 @@
+/home/simone/bookros2_ws/build/pmb2_laser_sensors/ament_cmake_core/pmb2_laser_sensorsConfig-version.cmake

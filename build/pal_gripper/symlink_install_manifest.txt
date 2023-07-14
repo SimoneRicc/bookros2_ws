@@ -1,0 +1,15 @@
+/home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/package_run_dependencies/pal_gripper
+/home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/parent_prefix_path/pal_gripper
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.sh
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.dsv
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/path.sh
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/path.dsv
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.bash
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.sh
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.zsh
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.dsv
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/package.dsv
+/home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/packages/pal_gripper
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig-version.cmake
+/home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/package.xml

@@ -1,0 +1,1 @@
+/home/simone/bookros2_ws/src/ThirdParty/tiago_navigation/tiago_2dnav/launch/tiago_sim_nav_bringup.launch.py

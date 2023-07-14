@@ -1,0 +1,55 @@
+[0.022s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_bringup': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_bringup
+[0.137s] -- The C compiler identification is GNU 11.3.0
+[0.247s] -- The CXX compiler identification is GNU 11.3.0
+[0.262s] -- Detecting C compiler ABI info
+[0.377s] -- Detecting C compiler ABI info - done
+[0.420s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.420s] -- Detecting C compile features
+[0.422s] -- Detecting C compile features - done
+[0.432s] -- Detecting CXX compiler ABI info
+[0.675s] -- Detecting CXX compiler ABI info - done
+[0.702s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.702s] -- Detecting CXX compile features
+[0.703s] -- Detecting CXX compile features - done
+[0.703s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.079s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.205s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.438s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.482s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.489s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.490s] -- Added test 'lint_cmake' to check CMake code style
+[1.490s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.492s] -- Added test 'xmllint' to check XML markup files
+[1.494s] -- Configuring done
+[1.503s] -- Generating done
+[1.505s] -- Build files have been written to: /home/simone/bookros2_ws/build/pmb2_bringup
+[1.515s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_bringup' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_bringup
+[1.518s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_bringup': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_bringup -- -j5 -l5
+[1.572s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_bringup' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_bringup -- -j5 -l5
+[1.623s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_bringup': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_bringup
+[1.634s] -- Install configuration: ""
+[1.635s] -- Execute custom install script
+[1.636s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/config/joy_config.yaml
+[1.652s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/config/joy_teleop.yaml
+[1.661s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/config/twist_mux/joystick.yaml
+[1.672s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/config/twist_mux/twist_mux_locks.yaml
+[1.686s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/config/twist_mux/twist_mux_topics.yaml
+[1.695s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/launch/joystick_teleop.launch.py
+[1.709s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/launch/pmb2_bringup.launch.py
+[1.732s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/launch/twist_mux.launch.py
+[1.743s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/ament_index/resource_index/package_run_dependencies/pmb2_bringup
+[1.758s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/ament_index/resource_index/parent_prefix_path/pmb2_bringup
+[1.770s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/environment/ament_prefix_path.sh
+[1.781s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/environment/ament_prefix_path.dsv
+[1.790s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/environment/path.sh
+[1.821s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/environment/path.dsv
+[1.832s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/local_setup.bash
+[1.840s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/local_setup.sh
+[1.850s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/local_setup.zsh
+[1.859s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/local_setup.dsv
+[1.870s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/package.dsv
+[1.880s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/ament_index/resource_index/packages/pmb2_bringup
+[1.890s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/cmake/pmb2_bringupConfig.cmake
+[1.901s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/cmake/pmb2_bringupConfig-version.cmake
+[1.909s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_bringup/share/pmb2_bringup/package.xml
+[1.945s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_bringup' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_description:/home/simone/bookros2_ws/install/pmb2_controller_configuration:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/simone/bookros2_ws/build/launch_pal:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_bringup

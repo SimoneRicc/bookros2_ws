@@ -1,0 +1,1 @@
+/home/simone/bookros2_ws/src/ThirdParty/pal_gazebo_worlds/launch/pal_gazebo.launch.py

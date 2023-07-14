@@ -1,0 +1,16 @@
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/launch/laser.launch.py
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/ament_index/resource_index/package_run_dependencies/tiago_laser_sensors
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/ament_index/resource_index/parent_prefix_path/tiago_laser_sensors
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/environment/ament_prefix_path.sh
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/environment/ament_prefix_path.dsv
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/environment/path.sh
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/environment/path.dsv
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/local_setup.bash
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/local_setup.sh
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/local_setup.zsh
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/local_setup.dsv
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/package.dsv
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/ament_index/resource_index/packages/tiago_laser_sensors
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/cmake/tiago_laser_sensorsConfig.cmake
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/cmake/tiago_laser_sensorsConfig-version.cmake
+/home/simone/bookros2_ws/install/tiago_laser_sensors/share/tiago_laser_sensors/package.xml

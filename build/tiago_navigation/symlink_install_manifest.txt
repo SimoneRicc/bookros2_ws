@@ -1,0 +1,15 @@
+/home/simone/bookros2_ws/install/tiago_navigation/share/ament_index/resource_index/package_run_dependencies/tiago_navigation
+/home/simone/bookros2_ws/install/tiago_navigation/share/ament_index/resource_index/parent_prefix_path/tiago_navigation
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/environment/ament_prefix_path.sh
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/environment/ament_prefix_path.dsv
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/environment/path.sh
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/environment/path.dsv
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/local_setup.bash
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/local_setup.sh
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/local_setup.zsh
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/local_setup.dsv
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/package.dsv
+/home/simone/bookros2_ws/install/tiago_navigation/share/ament_index/resource_index/packages/tiago_navigation
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/cmake/tiago_navigationConfig.cmake
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/cmake/tiago_navigationConfig-version.cmake
+/home/simone/bookros2_ws/install/tiago_navigation/share/tiago_navigation/package.xml

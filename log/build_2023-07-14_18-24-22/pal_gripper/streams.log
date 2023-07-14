@@ -1,0 +1,41 @@
+[0.072s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pal_gripper
+[0.188s] -- The C compiler identification is GNU 11.3.0
+[0.308s] -- The CXX compiler identification is GNU 11.3.0
+[0.327s] -- Detecting C compiler ABI info
+[0.541s] -- Detecting C compiler ABI info - done
+[0.560s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.561s] -- Detecting C compile features
+[0.562s] -- Detecting C compile features - done
+[0.568s] -- Detecting CXX compiler ABI info
+[0.719s] -- Detecting CXX compiler ABI info - done
+[0.749s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.750s] -- Detecting CXX compile features
+[0.751s] -- Detecting CXX compile features - done
+[0.762s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.055s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.185s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.396s] -- Configuring done
+[1.425s] -- Generating done
+[1.429s] -- Build files have been written to: /home/simone/bookros2_ws/build/pal_gripper
+[1.447s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pal_gripper
+[1.448s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pal_gripper -- -j5 -l5
+[1.507s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pal_gripper -- -j5 -l5
+[1.537s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pal_gripper
+[1.547s] -- Install configuration: ""
+[1.549s] -- Execute custom install script
+[1.551s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/package_run_dependencies/pal_gripper
+[1.564s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/parent_prefix_path/pal_gripper
+[1.579s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.sh
+[1.594s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/ament_prefix_path.dsv
+[1.607s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/path.sh
+[1.619s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/environment/path.dsv
+[1.629s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.bash
+[1.644s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.sh
+[1.654s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.zsh
+[1.670s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/local_setup.dsv
+[1.684s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/package.dsv
+[1.697s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/ament_index/resource_index/packages/pal_gripper
+[1.706s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake
+[1.718s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig-version.cmake
+[1.729s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper/share/pal_gripper/package.xml
+[1.760s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pal_gripper_description:/home/simone/bookros2_ws/install/pal_gripper_controller_configuration:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pal_gripper

@@ -1,0 +1,54 @@
+[0.101s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_maps': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_maps -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_maps
+[0.190s] -- The C compiler identification is GNU 11.3.0
+[0.305s] -- The CXX compiler identification is GNU 11.3.0
+[0.316s] -- Detecting C compiler ABI info
+[0.431s] -- Detecting C compiler ABI info - done
+[0.452s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.453s] -- Detecting C compile features
+[0.453s] -- Detecting C compile features - done
+[0.459s] -- Detecting CXX compiler ABI info
+[0.626s] -- Detecting CXX compiler ABI info - done
+[0.670s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.670s] -- Detecting CXX compile features
+[0.670s] -- Detecting CXX compile features - done
+[0.670s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.990s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.105s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.303s] -- Configuring done
+[1.307s] -- Generating done
+[1.309s] -- Build files have been written to: /home/simone/bookros2_ws/build/pmb2_maps
+[1.326s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_maps' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_maps -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_maps
+[1.327s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_maps': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_maps -- -j5 -l5
+[1.381s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_maps' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_maps -- -j5 -l5
+[1.438s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_maps': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_maps
+[1.451s] -- Install configuration: ""
+[1.453s] -- Execute custom install script
+[1.455s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/config/map.pgm
+[1.466s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/config/map.yaml
+[1.478s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/config/mmap.yaml
+[1.489s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/map.pgm
+[1.502s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/map.yaml
+[1.514s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/pal_office/mmap.yaml
+[1.522s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.bmp
+[1.532s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.bt
+[1.543s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.ot
+[1.559s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.pgm
+[1.568s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/map.yaml
+[1.579s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/mmap.yaml
+[1.592s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/configurations/small_office/transformation.yaml
+[1.602s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/ament_index/resource_index/package_run_dependencies/pmb2_maps
+[1.607s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/ament_index/resource_index/parent_prefix_path/pmb2_maps
+[1.615s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/environment/ament_prefix_path.sh
+[1.638s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/environment/ament_prefix_path.dsv
+[1.664s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/environment/path.sh
+[1.679s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/environment/path.dsv
+[1.691s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/local_setup.bash
+[1.703s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/local_setup.sh
+[1.713s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/local_setup.zsh
+[1.723s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/local_setup.dsv
+[1.732s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/package.dsv
+[1.747s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/ament_index/resource_index/packages/pmb2_maps
+[1.759s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/cmake/pmb2_mapsConfig.cmake
+[1.768s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/cmake/pmb2_mapsConfig-version.cmake
+[1.780s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_maps/share/pmb2_maps/package.xml
+[1.798s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_maps' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_maps

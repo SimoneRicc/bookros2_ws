@@ -1,0 +1,105 @@
+[0.040s] Invoking command in '/home/simone/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_basics
+[0.170s] -- The C compiler identification is GNU 11.3.0
+[0.301s] -- The CXX compiler identification is GNU 11.3.0
+[0.313s] -- Detecting C compiler ABI info
+[0.420s] -- Detecting C compiler ABI info - done
+[0.444s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.445s] -- Detecting C compile features
+[0.446s] -- Detecting C compile features - done
+[0.474s] -- Detecting CXX compiler ABI info
+[0.638s] -- Detecting CXX compiler ABI info - done
+[0.652s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.652s] -- Detecting CXX compile features
+[0.656s] -- Detecting CXX compile features - done
+[0.658s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.010s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.136s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.181s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[1.331s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.360s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.374s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.407s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.463s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.684s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.691s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.162s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.231s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.337s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.367s] -- Looking for pthread.h
+[2.496s] -- Looking for pthread.h - found
+[2.497s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.629s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.629s] -- Found Threads: TRUE  
+[3.130s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.298s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.300s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.301s] -- Configured cppcheck include dirs: 
+[3.302s] -- Configured cppcheck exclude dirs and/or files: 
+[3.304s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.304s] -- Configured cpplint exclude dirs and/or files: 
+[3.305s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.306s] -- Added test 'lint_cmake' to check CMake code style
+[3.307s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.309s] -- Added test 'uncrustify' to check C / C++ code style
+[3.309s] -- Configured uncrustify additional arguments: 
+[3.309s] -- Added test 'xmllint' to check XML markup files
+[3.313s] -- Configuring done
+[3.379s] -- Generating done
+[3.398s] -- Build files have been written to: /home/simone/bookros2_ws/build/br2_basics
+[3.427s] Invoked command in '/home/simone/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_basics -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_basics
+[3.428s] Invoking command in '/home/simone/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_basics -- -j5 -l5
+[3.517s] [  7%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[3.523s] [ 14%] [32mBuilding CXX object CMakeFiles/subscriber_class.dir/src/subscriber_class.cpp.o[0m
+[3.534s] [ 21%] [32mBuilding CXX object CMakeFiles/publisher_class.dir/src/publisher_class.cpp.o[0m
+[3.550s] [ 28%] [32mBuilding CXX object CMakeFiles/executors.dir/src/executors.cpp.o[0m
+[3.590s] [ 35%] [32mBuilding CXX object CMakeFiles/logger.dir/src/logger.cpp.o[0m
+[18.022s] [ 42%] [32m[1mLinking CXX executable logger[0m
+[19.555s] [ 42%] Built target logger
+[19.806s] [ 50%] [32mBuilding CXX object CMakeFiles/logger_class.dir/src/logger_class.cpp.o[0m
+[39.531s] [ 57%] [32m[1mLinking CXX executable publisher_class[0m
+[39.777s] [ 64%] [32m[1mLinking CXX executable logger_class[0m
+[41.046s] [ 64%] Built target publisher_class
+[41.121s] [ 64%] Built target logger_class
+[42.001s] [ 71%] [32m[1mLinking CXX executable publisher[0m
+[42.940s] [ 71%] Built target publisher
+[66.952s] [ 78%] [32m[1mLinking CXX executable subscriber_class[0m
+[67.133s] [ 85%] [32m[1mLinking CXX executable executors[0m
+[67.916s] [ 85%] Built target subscriber_class
+[68.123s] [ 85%] Built target executors
+[68.194s] [ 92%] [32mBuilding CXX object CMakeFiles/param_reader.dir/src/param_reader.cpp.o[0m
+[73.312s] [100%] [32m[1mLinking CXX executable param_reader[0m
+[73.583s] [100%] Built target param_reader
+[73.660s] Invoked command in '/home/simone/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_basics -- -j5 -l5
+[73.720s] Invoking command in '/home/simone/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_basics
+[73.730s] -- Install configuration: ""
+[73.733s] -- Execute custom install script
+[73.734s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/publisher
+[73.746s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/publisher_class
+[73.765s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/subscriber_class
+[73.775s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/executors
+[73.789s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/logger
+[73.802s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/logger_class
+[73.812s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/param_reader
+[73.833s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[73.847s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[73.858s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[73.878s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[73.890s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[73.901s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/config/params.yaml
+[73.914s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[73.925s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[73.938s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[73.953s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[73.967s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.sh
+[73.983s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.dsv
+[73.995s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.bash
+[74.006s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.sh
+[74.019s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.zsh
+[74.034s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.dsv
+[74.044s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/package.dsv
+[74.056s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[74.068s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[74.081s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[74.093s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[74.106s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/package.xml
+[74.135s] Invoked command in '/home/simone/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_basics

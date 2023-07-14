@@ -1,0 +1,41 @@
+[0.043s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_navigation
+[0.137s] -- The C compiler identification is GNU 11.3.0
+[0.240s] -- The CXX compiler identification is GNU 11.3.0
+[0.251s] -- Detecting C compiler ABI info
+[0.392s] -- Detecting C compiler ABI info - done
+[0.418s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.419s] -- Detecting C compile features
+[0.420s] -- Detecting C compile features - done
+[0.431s] -- Detecting CXX compiler ABI info
+[0.650s] -- Detecting CXX compiler ABI info - done
+[0.675s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.676s] -- Detecting CXX compile features
+[0.677s] -- Detecting CXX compile features - done
+[0.685s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.963s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.107s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.361s] -- Configuring done
+[1.375s] -- Generating done
+[1.377s] -- Build files have been written to: /home/simone/bookros2_ws/build/pmb2_navigation
+[1.399s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_navigation/pmb2_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_navigation
+[1.400s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_navigation -- -j5 -l5
+[1.455s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_navigation -- -j5 -l5
+[1.484s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_navigation': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_navigation
+[1.495s] -- Install configuration: ""
+[1.497s] -- Execute custom install script
+[1.498s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/package_run_dependencies/pmb2_navigation
+[1.511s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/parent_prefix_path/pmb2_navigation
+[1.523s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.sh
+[1.534s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.dsv
+[1.548s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.sh
+[1.559s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.dsv
+[1.572s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.bash
+[1.582s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.sh
+[1.591s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.zsh
+[1.607s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.dsv
+[1.621s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/package.dsv
+[1.635s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/ament_index/resource_index/packages/pmb2_navigation
+[1.646s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig.cmake
+[1.657s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig-version.cmake
+[1.669s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_navigation/share/pmb2_navigation/package.xml
+[1.691s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_navigation' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_navigation

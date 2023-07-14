@@ -1,0 +1,6 @@
+Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_tf2_detector
+Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_tf2_detector
+Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector
+Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector
