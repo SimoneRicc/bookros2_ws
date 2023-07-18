@@ -64,7 +64,7 @@ class BumpGoNode(Node):
             return
 
         out_vel = Twist()
-
+        # se lo stato è "FORWARD", vai dritto e verifica le "forward2stop" e " forward2back"
         if self.state == self.FORWARD:
             out_vel.linear.x = self.SPEED_LINEAR
 
@@ -75,12 +75,17 @@ class BumpGoNode(Node):
 
         elif self.state == self.BACK:
             out_vel.linear.x = -self.SPEED_LINEAR
-
             if self.check_back_2_turn():
                 self.go_state(self.TURN)
 
         elif self.state == self.TURN:
-            out_vel.angular.z = self.SPEED_ANGULAR
+            # verifichiamo nelle tre direzioni
+            pos_sx = round(0.75*len(self.last_scan.ranges))
+            pos_dx = round(0.25*len(self.last_scan.ranges))
+            if self.last_scan.ranges[pos_sx] > self.last_scan.ranges[pos_dx]:
+                out_vel.angular.z = self.SPEED_ANGULAR
+            else:
+                out_vel.angular.z = -self.SPEED_ANGULAR
 
             if self.check_turn_2_forward():
                 self.go_state(self.FORWARD)
@@ -114,18 +119,3 @@ class BumpGoNode(Node):
     def check_turn_2_forward(self):
         elapsed = self.get_clock().now() - self.state_ts
         return elapsed > Duration(seconds=self.TURNING_TIME)
-
-
-def main(args=None):
-    rclpy.init(args=args)
-
-    bump_go_node = BumpGoNode()
-
-    rclpy.spin(bump_go_node)
-
-    bump_go_node.destroy_node()
-    rclpy.shutdown()
-
-
-if __name__ == '__main__':
-    main()
