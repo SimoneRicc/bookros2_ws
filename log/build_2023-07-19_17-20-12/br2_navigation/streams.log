@@ -1,0 +1,34 @@
+[0.509s] Invoking command in '/home/simone/bookros2_ws/build/br2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_navigation -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_navigation
+[0.536s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.891s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.104s] -- Configuring done
+[1.109s] -- Generating done
+[1.111s] -- Build files have been written to: /home/simone/bookros2_ws/build/br2_navigation
+[1.613s] Invoked command in '/home/simone/bookros2_ws/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_navigation -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_navigation
+[1.614s] Invoking command in '/home/simone/bookros2_ws/build/br2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_navigation -- -j6 -l6
+[1.760s] Invoked command in '/home/simone/bookros2_ws/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_navigation -- -j6 -l6
+[1.911s] Invoking command in '/home/simone/bookros2_ws/build/br2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_navigation
+[1.927s] -- Install configuration: ""
+[1.929s] -- Execute custom install script
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/launch/navigation_launch.py
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/launch/tiago_navigation.launch.py
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/params/mapper_params_online_async.yaml
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/params/tiago_nav_params.yaml
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/maps/home.pgm
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/maps/home.yaml
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/package_run_dependencies/br2_navigation
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/parent_prefix_path/br2_navigation
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.sh
+[1.929s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/ament_prefix_path.dsv
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/path.sh
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/environment/path.dsv
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.bash
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.sh
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.zsh
+[1.930s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/local_setup.dsv
+[1.930s] -- Symlinking: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/package.dsv
+[1.946s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/ament_index/resource_index/packages/br2_navigation
+[1.947s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig.cmake
+[1.947s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/cmake/br2_navigationConfig-version.cmake
+[1.947s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_navigation/share/br2_navigation/package.xml
+[2.029s] Invoked command in '/home/simone/bookros2_ws/build/br2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_navigation

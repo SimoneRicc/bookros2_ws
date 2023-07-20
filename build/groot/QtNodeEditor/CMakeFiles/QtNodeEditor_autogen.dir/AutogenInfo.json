@@ -154,7 +154,7 @@
 		"/home/simone/bookros2_ws/src/ThirdParty/Groot/QtNodeEditor/include/nodes/internal/memory.hpp"
 	],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 5,
+	"PARALLEL" : 6,
 	"PARSE_CACHE_FILE" : "/home/simone/bookros2_ws/build/groot/QtNodeEditor/CMakeFiles/QtNodeEditor_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",

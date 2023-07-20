@@ -1,0 +1,48 @@
+[0.081s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper_description -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pal_gripper_description
+[0.397s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.473s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.484s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.684s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.711s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.713s] -- Added test 'lint_cmake' to check CMake code style
+[0.715s] -- Added test 'xmllint' to check XML markup files
+[0.747s] -- Configuring done
+[0.771s] -- Generating done
+[0.772s] -- Build files have been written to: /home/simone/bookros2_ws/build/pal_gripper_description
+[0.791s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pal_gripper/pal_gripper_description -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pal_gripper_description
+[0.792s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pal_gripper_description -- -j6 -l6
+[0.930s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pal_gripper_description -- -j6 -l6
+[1.186s] Invoking command in '/home/simone/bookros2_ws/build/pal_gripper_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pal_gripper_description
+[1.211s] -- Install configuration: ""
+[1.211s] -- Execute custom install script
+[1.211s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/gazebo/gazebo.urdf.xacro
+[1.211s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link.stl
+[1.211s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_finger_link_collision.stl
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link.stl
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/meshes/gripper_link_collision.stl
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/gripper_test.urdf.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/upload.launch
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/robots/upload_gripper.launch
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/deg_to_rad.urdf.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.gazebo.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.ros2_control.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.transmission.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/gripper.urdf.xacro
+[1.212s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/urdf/materials.urdf.xacro
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/package_run_dependencies/pal_gripper_description
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/parent_prefix_path/pal_gripper_description
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.sh
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/ament_prefix_path.dsv
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/path.sh
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/environment/path.dsv
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.bash
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.sh
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.zsh
+[1.213s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/local_setup.dsv
+[1.213s] -- Symlinking: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/package.dsv
+[1.246s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/ament_index/resource_index/packages/pal_gripper_description
+[1.246s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.246s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig.cmake
+[1.246s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/cmake/pal_gripper_descriptionConfig-version.cmake
+[1.246s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pal_gripper_description/share/pal_gripper_description/package.xml
+[1.262s] Invoked command in '/home/simone/bookros2_ws/build/pal_gripper_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pal_gripper_description

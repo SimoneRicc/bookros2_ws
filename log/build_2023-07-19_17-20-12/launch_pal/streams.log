@@ -1,0 +1,61 @@
+[1.584s] Invoking command in '/home/simone/bookros2_ws/build/launch_pal': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/launch_pal/build
+[2.132s] running develop
+[2.132s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.132s]   warnings.warn(
+[2.135s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.135s]   warnings.warn(
+[2.312s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[2.312s]   warnings.warn(
+[2.313s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.313s]   warnings.warn(
+[2.626s] Removing /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch-pal.egg-link (link to .)
+[2.702s] Invoked command in '/home/simone/bookros2_ws/build/launch_pal' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/launch_pal/build
+[2.703s] Invoking command in '/home/simone/bookros2_ws/src/ThirdParty/launch_pal': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/launch_pal build --build-base /home/simone/bookros2_ws/build/launch_pal/build install --record /home/simone/bookros2_ws/build/launch_pal/install.log --single-version-externally-managed
+[3.297s] running egg_info
+[3.298s] writing ../../../build/launch_pal/launch_pal.egg-info/PKG-INFO
+[3.298s] writing dependency_links to ../../../build/launch_pal/launch_pal.egg-info/dependency_links.txt
+[3.298s] writing entry points to ../../../build/launch_pal/launch_pal.egg-info/entry_points.txt
+[3.303s] writing requirements to ../../../build/launch_pal/launch_pal.egg-info/requires.txt
+[3.303s] writing top-level names to ../../../build/launch_pal/launch_pal.egg-info/top_level.txt
+[3.303s] reading manifest file '../../../build/launch_pal/launch_pal.egg-info/SOURCES.txt'
+[3.303s] adding license file 'LICENSE'
+[3.303s] writing manifest file '../../../build/launch_pal/launch_pal.egg-info/SOURCES.txt'
+[3.303s] running build
+[3.303s] running build_py
+[3.304s] creating /home/simone/bookros2_ws/build/launch_pal/build
+[3.304s] creating /home/simone/bookros2_ws/build/launch_pal/build/lib
+[3.304s] creating /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.304s] copying launch_pal/include_utils.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.305s] copying launch_pal/__init__.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.307s] copying launch_pal/arg_utils.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.308s] copying launch_pal/robot_utils.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.312s] copying launch_pal/param_utils.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal
+[3.313s] creating /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/substitutions
+[3.313s] copying launch_pal/substitutions/__init__.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/substitutions
+[3.314s] copying launch_pal/substitutions/load_file.py -> /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/substitutions
+[3.314s] running install
+[3.314s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.315s]   warnings.warn(
+[3.316s] running install_lib
+[3.316s] creating /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.316s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/include_utils.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.317s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/__init__.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.317s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/arg_utils.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.317s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/robot_utils.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.317s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/param_utils.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal
+[3.318s] creating /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/substitutions
+[3.318s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/substitutions/__init__.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/substitutions
+[3.318s] copying /home/simone/bookros2_ws/build/launch_pal/build/lib/launch_pal/substitutions/load_file.py -> /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/substitutions
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/include_utils.py to include_utils.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/__init__.py to __init__.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/arg_utils.py to arg_utils.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/robot_utils.py to robot_utils.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/param_utils.py to param_utils.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/substitutions/__init__.py to __init__.cpython-310.pyc
+[3.325s] byte-compiling /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal/substitutions/load_file.py to load_file.cpython-310.pyc
+[3.325s] running install_data
+[3.325s] running install_egg_info
+[3.329s] Copying ../../../build/launch_pal/launch_pal.egg-info to /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch_pal-0.0.9-py3.10.egg-info
+[3.337s] running install_scripts
+[3.382s] writing list of installed files to '/home/simone/bookros2_ws/build/launch_pal/install.log'
+[3.517s] Invoked command in '/home/simone/bookros2_ws/src/ThirdParty/launch_pal' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/launch_pal build --build-base /home/simone/bookros2_ws/build/launch_pal/build install --record /home/simone/bookros2_ws/build/launch_pal/install.log --single-version-externally-managed

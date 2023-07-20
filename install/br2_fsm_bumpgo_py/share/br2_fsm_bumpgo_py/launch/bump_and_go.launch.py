@@ -28,8 +28,19 @@ def generate_launch_description():
                         ('input_scan', '/scan_raw'),
                         ('output_vel', '/nav_vel')
                       ])
+    exercise_1 = Node(package='br2_fsm_bumpgo_py',
+                      executable='bump_go_ex1',
+                      output='screen',
+                      parameters=[{
+                        'use_sim_time': True
+                      }],
+                      remappings=[
+                        ('input_scan', '/scan_raw'),
+                        ('output_vel', '/nav_vel')
+                      ])
 
     ld = LaunchDescription()
     ld.add_action(kobuki_cmd)
+    ld.add_action(exercise_1)
 
     return ld

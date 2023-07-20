@@ -175,14 +175,14 @@ CMakeFiles/br2_tracking_msgs_uninstall.dir/clean:
 # Target rules for target CMakeFiles/br2_tracking_msgs.dir
 
 # All Build rule for target.
+CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c.dir/all
+CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__cpp.dir/all
+CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.dir/all
 CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_introspection_c.dir/all
 CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_c.dir/all
 CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_introspection_cpp.dir/all
 CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_cpp.dir/all
 CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_generator_c.dir/all
-CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c.dir/all
-CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__cpp.dir/all
-CMakeFiles/br2_tracking_msgs.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_cpp.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/br2_tracking_msgs.dir/build.make CMakeFiles/br2_tracking_msgs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/br2_tracking_msgs.dir/build.make CMakeFiles/br2_tracking_msgs.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/simone/bookros2_ws/build/br2_tracking_msgs/CMakeFiles --progress-num= "Built target br2_tracking_msgs"
@@ -496,10 +496,10 @@ CMakeFiles/br2_tracking_msgs__rosidl_generator_py.dir/clean:
 # Target rules for target CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir
 
 # All Build rule for target.
+CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c.dir/all
 CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_c.dir/all
 CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_generator_py.dir/all
 CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_generator_c.dir/all
-CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c.dir/all
 CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all: br2_tracking_msgs__py/CMakeFiles/br2_tracking_msgs__py.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/build.make CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/build.make CMakeFiles/br2_tracking_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/build

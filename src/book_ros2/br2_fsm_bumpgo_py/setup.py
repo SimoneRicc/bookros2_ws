@@ -19,12 +19,13 @@ setup(
     zip_safe=True,
     maintainer='fmrico',
     maintainer_email='fmrico@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Bump and Go behavior based on Finite State Machines (Python)',
+    license='Apache License, Version 2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-          'bump_go_main = br2_fsm_bumpgo_py.bump_go_main:main'
+          'bump_go_main = br2_fsm_bumpgo_py.bump_go_main:main',
+          'bump_go_ex1 = br2_fsm_bumpgo_py.bump_go_ex1:main',
         ],
     },
 )

@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating br2_tf2_detector_py.egg-info
+writing br2_tf2_detector_py.egg-info/PKG-INFO
+writing dependency_links to br2_tf2_detector_py.egg-info/dependency_links.txt
+writing entry points to br2_tf2_detector_py.egg-info/entry_points.txt
+writing requirements to br2_tf2_detector_py.egg-info/requires.txt
+writing top-level names to br2_tf2_detector_py.egg-info/top_level.txt
+writing manifest file 'br2_tf2_detector_py.egg-info/SOURCES.txt'
+reading manifest file 'br2_tf2_detector_py.egg-info/SOURCES.txt'
+writing manifest file 'br2_tf2_detector_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages/br2-tf2-detector-py.egg-link (link to .)
+Installing obstacle_detector_node script to /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/br2_tf2_detector_py
+Installing obstacle_monitor_node script to /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/br2_tf2_detector_py
+
+Installed /home/simone/bookros2_ws/build/br2_tf2_detector_py
+running install_data
+creating /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/ament_index
+creating /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/ament_index/resource_index
+creating /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/ament_index/resource_index/packages
+copying resource/br2_tf2_detector_py -> /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/br2_tf2_detector_py
+creating /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/br2_tf2_detector_py/launch
+copying launch/detector_py.launch.py -> /home/simone/bookros2_ws/install/br2_tf2_detector_py/share/br2_tf2_detector_py/launch

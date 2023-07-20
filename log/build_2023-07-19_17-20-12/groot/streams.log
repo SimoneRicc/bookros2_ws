@@ -1,0 +1,59 @@
+[0.116s] Invoking command in '/home/simone/bookros2_ws/build/groot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/Groot -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/groot
+[0.477s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.511s] -- Found ament_index_cpp: 1.4.0 (/opt/ros/humble/share/ament_index_cpp/cmake)
+[0.512s] -- ---------------------
+[0.512s] -- Compiling with AMENT.
+[0.513s] -- ---------------------
+[0.528s] -- ZeroMQ found.
+[0.695s] -- Configuring done
+[1.124s] -- Generating done
+[1.149s] -- Build files have been written to: /home/simone/bookros2_ws/build/groot
+[1.282s] Invoked command in '/home/simone/bookros2_ws/build/groot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/Groot -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/groot
+[1.282s] Invoking command in '/home/simone/bookros2_ws/build/groot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/groot -- -j6 -l6
+[1.474s] [  1%] [34m[1mAutomatic MOC and UIC for target QtNodeEditor[0m
+[1.557s] [  1%] Built target QtNodeEditor_autogen
+[1.775s] [35m[1mConsolidate compiler generated dependencies of target QtNodeEditor[0m
+[1.855s] [ 57%] Built target QtNodeEditor
+[1.958s] [ 58%] [34m[1mAutomatic MOC and UIC for target behavior_tree_editor[0m
+[1.972s] [ 58%] Built target behavior_tree_editor_autogen
+[2.057s] [35m[1mConsolidate compiler generated dependencies of target behavior_tree_editor[0m
+[2.129s] [ 74%] Built target behavior_tree_editor
+[2.213s] [ 75%] [34m[1mAutomatic MOC and UIC for target Groot[0m
+[2.357s] [ 75%] Built target Groot_autogen
+[2.422s] [ 76%] [34m[1mAutomatic MOC and UIC for target replay_test[0m
+[2.491s] [ 76%] Built target replay_test_autogen
+[2.630s] [35m[1mConsolidate compiler generated dependencies of target Groot[0m
+[2.669s] [ 82%] Built target Groot
+[2.694s] [35m[1mConsolidate compiler generated dependencies of target replay_test[0m
+[2.757s] [ 91%] Built target replay_test
+[2.796s] [ 91%] [34m[1mAutomatic MOC and UIC for target editor_test[0m
+[2.927s] [ 91%] Built target editor_test_autogen
+[2.975s] [35m[1mConsolidate compiler generated dependencies of target editor_test[0m
+[3.012s] [100%] Built target editor_test
+[3.087s] Invoked command in '/home/simone/bookros2_ws/build/groot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/groot -- -j6 -l6
+[3.483s] Invoking command in '/home/simone/bookros2_ws/build/groot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/groot
+[3.491s] -- Install configuration: ""
+[3.491s] -- Execute custom install script
+[3.491s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/lib/libbehavior_tree_editor.so
+[3.492s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/lib/groot/Groot
+[3.492s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/library_path.sh
+[3.492s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/library_path.dsv
+[3.493s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/ament_index/resource_index/package_run_dependencies/groot
+[3.493s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/ament_index/resource_index/parent_prefix_path/groot
+[3.493s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/ament_prefix_path.sh
+[3.493s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/ament_prefix_path.dsv
+[3.493s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/path.sh
+[3.494s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/environment/path.dsv
+[3.494s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/local_setup.bash
+[3.494s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/local_setup.sh
+[3.494s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/local_setup.zsh
+[3.494s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/local_setup.dsv
+[3.494s] -- Symlinking: /home/simone/bookros2_ws/install/groot/share/groot/package.dsv
+[3.512s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/ament_index/resource_index/packages/groot
+[3.512s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.512s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.512s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/cmake/ament_cmake_export_libraries-extras.cmake
+[3.513s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/cmake/grootConfig.cmake
+[3.513s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/cmake/grootConfig-version.cmake
+[3.513s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/groot/share/groot/package.xml
+[3.535s] Invoked command in '/home/simone/bookros2_ws/build/groot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/groot

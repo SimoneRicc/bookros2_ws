@@ -1,0 +1,30 @@
+[0.708s] Invoking command in '/home/simone/bookros2_ws/src/learning_tf2_py': PYTHONPATH=/home/simone/bookros2_ws/build/learning_tf2_py/prefix_override:/home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/simone/bookros2_ws/build/learning_tf2_py/build install --record /home/simone/bookros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed
+[0.972s] running egg_info
+[0.973s] writing ../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+[0.973s] writing dependency_links to ../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+[0.973s] writing entry points to ../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+[0.974s] writing requirements to ../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+[0.974s] writing top-level names to ../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+[0.975s] reading manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.977s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.977s] running build
+[0.977s] running build_py
+[0.977s] copying learning_tf2_py/turtle_tf2_broadcaster.py -> /home/simone/bookros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.977s] running install
+[0.978s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.978s]   warnings.warn(
+[0.978s] running install_lib
+[0.978s] copying /home/simone/bookros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_broadcaster.py -> /home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.979s] byte-compiling /home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.980s] running install_data
+[0.980s] copying package.xml -> /home/simone/bookros2_ws/install/learning_tf2_py/share/learning_tf2_py
+[0.980s] creating /home/simone/bookros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.980s] copying launch/turtle_tf2_demo.launch.py -> /home/simone/bookros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.981s] running install_egg_info
+[0.983s] removing '/home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.983s] Copying ../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info
+[0.984s] running install_scripts
+[1.005s] Installing static_turtle_tf2_broadcaster script to /home/simone/bookros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[1.005s] Installing turtle_tf2_broadcaster script to /home/simone/bookros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[1.005s] writing list of installed files to '/home/simone/bookros2_ws/build/learning_tf2_py/install.log'
+[1.032s] Invoked command in '/home/simone/bookros2_ws/src/learning_tf2_py' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/learning_tf2_py/prefix_override:/home/simone/bookros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/simone/bookros2_ws/build/learning_tf2_py/build install --record /home/simone/bookros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed

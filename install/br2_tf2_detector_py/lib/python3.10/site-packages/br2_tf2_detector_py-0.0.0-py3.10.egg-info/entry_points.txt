@@ -1,0 +1,4 @@
+[console_scripts]
+obstacle_detector_node = br2_tf2_detector_py.ObstacleDetectorNode:main
+obstacle_monitor_node = br2_tf2_detector_py.ObstacleMonitorNode:main
+

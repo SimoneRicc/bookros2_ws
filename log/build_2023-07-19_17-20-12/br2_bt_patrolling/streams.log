@@ -1,0 +1,95 @@
+[0.080s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_bt_patrolling -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_bt_patrolling
+[0.136s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.470s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.488s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[0.554s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.554s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.554s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.581s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.645s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.783s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.787s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.042s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.393s] -- Found rclcpp_lifecycle: 16.0.4 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[1.496s] -- Found rclcpp_action: 16.0.4 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.869s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.001s] -- Found nav2_msgs: 1.1.8 (/opt/ros/humble/share/nav2_msgs/cmake)
+[2.576s] -- ZeroMQ found.
+[2.725s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.863s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[2.891s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.898s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.899s] -- Configured cppcheck include dirs: /home/simone/bookros2_ws/src/book_ros2/br2_bt_patrolling/include
+[2.899s] -- Configured cppcheck exclude dirs and/or files: 
+[2.899s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.899s] -- Configured cpplint exclude dirs and/or files: 
+[2.899s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.899s] -- Added test 'lint_cmake' to check CMake code style
+[2.900s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.900s] -- Added test 'uncrustify' to check C / C++ code style
+[2.900s] -- Configured uncrustify additional arguments: 
+[2.901s] -- Added test 'xmllint' to check XML markup files
+[2.908s] -- Configuring done
+[2.984s] -- Generating done
+[2.988s] -- Build files have been written to: /home/simone/bookros2_ws/build/br2_bt_patrolling
+[3.137s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/book_ros2/br2_bt_patrolling -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/br2_bt_patrolling
+[3.138s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_bt_patrolling -- -j6 -l6
+[3.216s] [35m[1mConsolidate compiler generated dependencies of target br2_recharge_bt_node[0m
+[3.237s] [ 10%] Built target br2_recharge_bt_node
+[3.275s] [35m[1mConsolidate compiler generated dependencies of target br2_track_objects_bt_node[0m
+[3.340s] [ 20%] Built target br2_track_objects_bt_node
+[3.342s] [35m[1mConsolidate compiler generated dependencies of target patrolling_main[0m
+[3.389s] [ 30%] Built target patrolling_main
+[3.449s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[3.488s] [ 40%] Built target gtest_main
+[3.549s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[3.550s] [ 50%] Built target gtest
+[3.550s] [35m[1mConsolidate compiler generated dependencies of target br2_battery_checker_bt_node[0m
+[3.633s] [ 60%] Built target br2_battery_checker_bt_node
+[3.655s] [35m[1mConsolidate compiler generated dependencies of target bt_action_test[0m
+[3.690s] [ 70%] Built target bt_action_test
+[3.704s] [35m[1mConsolidate compiler generated dependencies of target br2_get_waypoint_bt_node[0m
+[3.723s] [ 80%] Built target br2_get_waypoint_bt_node
+[3.759s] [35m[1mConsolidate compiler generated dependencies of target br2_move_bt_node[0m
+[3.826s] [ 90%] Built target br2_move_bt_node
+[3.870s] [35m[1mConsolidate compiler generated dependencies of target br2_patrol_bt_node[0m
+[3.918s] [100%] Built target br2_patrol_bt_node
+[4.157s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_bt_patrolling -- -j6 -l6
+[4.431s] Invoking command in '/home/simone/bookros2_ws/build/br2_bt_patrolling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_bt_patrolling
+[4.496s] -- Install configuration: "Debug"
+[4.496s] -- Execute custom install script
+[4.496s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_recharge_bt_node.so
+[4.496s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_patrol_bt_node.so
+[4.496s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_move_bt_node.so
+[4.496s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_get_waypoint_bt_node.so
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_battery_checker_bt_node.so
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/libbr2_track_objects_bt_node.so
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/lib/br2_bt_patrolling/patrolling_main
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/BatteryChecker.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/GetWaypoint.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Move.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Patrol.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/Recharge.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/TrackObjects.hpp
+[4.497s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTActionNode.hpp
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/include//br2_bt_patrolling/ctrl_support/BTLifecycleCtrlNode.hpp
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/behavior_tree_xml/patrolling.xml
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/launch/patrolling.launch.py
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/package_run_dependencies/br2_bt_patrolling
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/parent_prefix_path/br2_bt_patrolling
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.sh
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/ament_prefix_path.dsv
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.sh
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/environment/path.dsv
+[4.498s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.bash
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.sh
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.zsh
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/local_setup.dsv
+[4.499s] -- Symlinking: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.dsv
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/ament_index/resource_index/packages/br2_bt_patrolling
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig.cmake
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/cmake/br2_bt_patrollingConfig-version.cmake
+[4.499s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_bt_patrolling/share/br2_bt_patrolling/package.xml
+[4.512s] Invoked command in '/home/simone/bookros2_ws/build/br2_bt_patrolling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_bt_patrolling

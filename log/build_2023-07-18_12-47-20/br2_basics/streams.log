@@ -1,0 +1,42 @@
+[0.163s] Invoking command in '/home/simone/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_basics -- -j5 -l5
+[0.447s] [ 14%] Built target publisher
+[0.586s] [ 28%] Built target logger
+[0.710s] [ 42%] Built target logger_class
+[0.802s] [ 57%] Built target param_reader
+[0.917s] [ 71%] Built target executors
+[1.043s] [ 85%] Built target subscriber_class
+[1.174s] [100%] Built target publisher_class
+[1.247s] Invoked command in '/home/simone/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_basics -- -j5 -l5
+[1.675s] Invoking command in '/home/simone/bookros2_ws/build/br2_basics': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_basics
+[1.690s] -- Install configuration: ""
+[1.694s] -- Execute custom install script
+[1.695s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/publisher
+[1.696s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/publisher_class
+[1.697s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/subscriber_class
+[1.700s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/executors
+[1.702s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/logger
+[1.703s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/logger_class
+[1.704s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/lib/br2_basics/param_reader
+[1.711s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/includer_launch.py
+[1.712s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v1_launch.py
+[1.712s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/param_node_v2_launch.py
+[1.712s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v1_launch.py
+[1.712s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/launch/pub_sub_v2_launch.py
+[1.719s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/config/params.yaml
+[1.720s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/package_run_dependencies/br2_basics
+[1.720s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/parent_prefix_path/br2_basics
+[1.720s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.sh
+[1.720s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/ament_prefix_path.dsv
+[1.721s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.sh
+[1.721s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/environment/path.dsv
+[1.722s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.bash
+[1.731s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.sh
+[1.731s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.zsh
+[1.732s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/local_setup.dsv
+[1.732s] -- Symlinking: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/package.dsv
+[1.764s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/ament_index/resource_index/packages/br2_basics
+[1.774s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.774s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig.cmake
+[1.774s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/cmake/br2_basicsConfig-version.cmake
+[1.774s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_basics/share/br2_basics/package.xml
+[1.800s] Invoked command in '/home/simone/bookros2_ws/build/br2_basics' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_basics

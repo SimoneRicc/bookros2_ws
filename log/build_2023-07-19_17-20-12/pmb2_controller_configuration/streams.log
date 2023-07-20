@@ -1,0 +1,40 @@
+[0.499s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_controller_configuration -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_controller_configuration
+[0.564s] -- Found ament_cmake_auto: 1.3.5 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.985s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.150s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.193s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.231s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.232s] -- Added test 'lint_cmake' to check CMake code style
+[1.233s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.233s] -- Added test 'xmllint' to check XML markup files
+[1.233s] -- Configuring done
+[1.233s] -- Generating done
+[1.234s] -- Build files have been written to: /home/simone/bookros2_ws/build/pmb2_controller_configuration
+[1.243s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake /home/simone/bookros2_ws/src/ThirdParty/pmb2_robot/pmb2_controller_configuration -DCMAKE_INSTALL_PREFIX=/home/simone/bookros2_ws/install/pmb2_controller_configuration
+[1.243s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_controller_configuration -- -j6 -l6
+[1.342s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_controller_configuration -- -j6 -l6
+[1.401s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_controller_configuration
+[1.439s] -- Install configuration: ""
+[1.439s] -- Execute custom install script
+[1.439s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/gazebo_controller_manager_cfg.yaml
+[1.439s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/joint_state_broadcaster.yaml
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/config/mobile_base_controller.yaml
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/default_controllers.launch.py
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/joint_state_broadcaster.launch.py
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/launch/mobile_base_controller.launch.py
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/ament_index/resource_index/package_run_dependencies/pmb2_controller_configuration
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/ament_index/resource_index/parent_prefix_path/pmb2_controller_configuration
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/ament_prefix_path.sh
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/ament_prefix_path.dsv
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/path.sh
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/environment/path.dsv
+[1.440s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.bash
+[1.441s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.sh
+[1.441s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.zsh
+[1.441s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/local_setup.dsv
+[1.441s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/package.dsv
+[1.447s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/ament_index/resource_index/packages/pmb2_controller_configuration
+[1.447s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/cmake/pmb2_controller_configurationConfig.cmake
+[1.447s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/cmake/pmb2_controller_configurationConfig-version.cmake
+[1.448s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_controller_configuration/share/pmb2_controller_configuration/package.xml
+[1.514s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_controller_configuration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_tf2_detector_py:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_controller_configuration

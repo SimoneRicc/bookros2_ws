@@ -1,0 +1,26 @@
+[2.557s] Invoking command in '/home/simone/bookros2_ws/build/launch_pal': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/simone/bookros2_ws/build/launch_pal/build --no-deps install_data
+[4.255s] running develop
+[4.259s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.260s]   warnings.warn(
+[4.268s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.272s]   warnings.warn(
+[4.477s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[4.477s]   warnings.warn(
+[4.479s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[4.480s]   warnings.warn(
+[4.480s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[4.481s]   warnings.warn(
+[4.796s] running egg_info
+[4.798s] writing launch_pal.egg-info/PKG-INFO
+[4.799s] writing dependency_links to launch_pal.egg-info/dependency_links.txt
+[4.799s] writing entry points to launch_pal.egg-info/entry_points.txt
+[4.799s] writing requirements to launch_pal.egg-info/requires.txt
+[4.799s] writing top-level names to launch_pal.egg-info/top_level.txt
+[4.817s] reading manifest file 'launch_pal.egg-info/SOURCES.txt'
+[4.817s] writing manifest file 'launch_pal.egg-info/SOURCES.txt'
+[4.817s] running build_ext
+[4.817s] Creating /home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages/launch-pal.egg-link (link to .)
+[4.817s] 
+[4.817s] Installed /home/simone/bookros2_ws/build/launch_pal
+[4.817s] running install_data
+[4.887s] Invoked command in '/home/simone/bookros2_ws/build/launch_pal' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/launch_pal/prefix_override:/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/simone/bookros2_ws/build/launch_pal/build --no-deps install_data

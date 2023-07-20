@@ -1,0 +1,40 @@
+[0.339s] Invoking command in '/home/simone/bookros2_ws/build/hey5_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/hey5_description -- -j6 -l6
+[0.414s] Invoked command in '/home/simone/bookros2_ws/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/hey5_description -- -j6 -l6
+[0.446s] Invoking command in '/home/simone/bookros2_ws/build/hey5_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/hey5_description
+[0.452s] -- Install configuration: ""
+[0.452s] -- Execute custom install script
+[0.454s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/config/two_hands.rviz
+[0.455s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/gazebo/gazebo.urdf.xacro
+[0.457s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/launch/hey5_kinematics_test.launch
+[0.458s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_abd_collision.stl
+[0.459s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_flex_collision.stl
+[0.460s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/finger_flex_tip_collision.stl
+[0.460s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/palm.stl
+[0.461s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/palm_collision.stl
+[0.461s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/meshes/thumb_abd_collision.stl
+[0.463s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/robots/hey5_test.urdf.xacro
+[0.466s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/actuators.urdf.xacro
+[0.466s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/deg_to_rad.urdf.xacro
+[0.466s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/fingers.urdf.xacro
+[0.466s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/hey5.ros2_control.xacro
+[0.467s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/hey5.transmission.xacro
+[0.467s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/hey5_hand.urdf.xacro
+[0.468s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/materials.urdf.xacro
+[0.469s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/palm.urdf.xacro
+[0.469s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/urdf/transmissions.urdf.xacro
+[0.469s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/ament_index/resource_index/package_run_dependencies/hey5_description
+[0.470s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/ament_index/resource_index/parent_prefix_path/hey5_description
+[0.470s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/environment/ament_prefix_path.sh
+[0.471s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/environment/ament_prefix_path.dsv
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/environment/path.sh
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/environment/path.dsv
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.bash
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.sh
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.zsh
+[0.472s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/local_setup.dsv
+[0.472s] -- Symlinking: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/package.dsv
+[0.485s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/ament_index/resource_index/packages/hey5_description
+[0.486s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig.cmake
+[0.486s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig-version.cmake
+[0.486s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/hey5_description/share/hey5_description/package.xml
+[0.525s] Invoked command in '/home/simone/bookros2_ws/build/hey5_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/learning_tf2_py:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/hey5_description

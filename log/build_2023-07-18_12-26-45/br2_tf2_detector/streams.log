@@ -1,0 +1,32 @@
+[0.206s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+[0.437s] [35m[1mConsolidate compiler generated dependencies of target br2_tf2_detector[0m
+[0.609s] [ 50%] Built target br2_tf2_detector
+[0.714s] [35m[1mConsolidate compiler generated dependencies of target detector[0m
+[0.808s] [ 75%] Built target detector
+[0.884s] [35m[1mConsolidate compiler generated dependencies of target detector_improved[0m
+[0.979s] [100%] Built target detector_improved
+[1.169s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/br2_tf2_detector -- -j5 -l5
+[1.496s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector
+[1.508s] -- Install configuration: ""
+[1.511s] -- Execute custom install script
+[1.513s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/libbr2_tf2_detector.so
+[1.513s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector
+[1.514s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/lib/br2_tf2_detector/detector_improved
+[1.523s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_basic.launch.py
+[1.524s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/launch/detector_improved.launch.py
+[1.524s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/package_run_dependencies/br2_tf2_detector
+[1.524s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/parent_prefix_path/br2_tf2_detector
+[1.524s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.sh
+[1.525s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/ament_prefix_path.dsv
+[1.525s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.sh
+[1.525s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/environment/path.dsv
+[1.526s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.bash
+[1.526s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.sh
+[1.526s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.zsh
+[1.526s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/local_setup.dsv
+[1.526s] -- Symlinking: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.dsv
+[1.536s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/ament_index/resource_index/packages/br2_tf2_detector
+[1.536s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig.cmake
+[1.536s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/cmake/br2_tf2_detectorConfig-version.cmake
+[1.537s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/br2_tf2_detector/share/br2_tf2_detector/package.xml
+[1.583s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simone/bookros2_ws/install/launch_pal:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py:/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/br2_tf2_detector
