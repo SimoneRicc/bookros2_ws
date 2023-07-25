@@ -4,4 +4,4 @@ This is the workspace taken from the author of the book "A concise introduction 
 
 # Goal of this repo
 
-Use it as backup for my modification/exercise 
+Use it as backup for my modifications/exercises
