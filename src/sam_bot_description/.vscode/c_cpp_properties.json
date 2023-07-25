@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/simone/bookros2_ws/install/br2_tracking/include/**",
+        "/home/simone/bookros2_ws/install/br2_tracking_msgs/include/**",
+        "/home/simone/bookros2_ws/install/br2_bt_patrolling/include/**",
+        "/home/simone/bookros2_ws/install/br2_bt_bumpgo/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_bt_bumpgo/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_bt_patrolling/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_cpp/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_tracking/include/**",
+        "/home/simone/bookros2_ws/src/book_ros2/br2_vff_avoidance/include/**",
+        "/home/simone/bookros2_ws/src/sam_bot_description/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

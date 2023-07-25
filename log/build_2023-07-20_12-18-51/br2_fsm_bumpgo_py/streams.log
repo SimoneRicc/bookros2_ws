@@ -1,0 +1,35 @@
+[1.394s] Invoking command in '/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py': PYTHONPATH=/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/build
+[1.937s] running develop
+[1.938s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.938s]   warnings.warn(
+[1.940s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.940s]   warnings.warn(
+[2.069s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[2.069s]   warnings.warn(
+[2.071s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.071s]   warnings.warn(
+[2.430s] Invoked command in '/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/build
+[2.431s] Invoking command in '/home/simone/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_py': PYTHONPATH=/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/br2_fsm_bumpgo_py build --build-base /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/build install --record /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/install.log --single-version-externally-managed
+[2.913s] running egg_info
+[2.913s] writing ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/PKG-INFO
+[2.914s] writing dependency_links to ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/dependency_links.txt
+[2.914s] writing entry points to ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/entry_points.txt
+[2.914s] writing requirements to ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/requires.txt
+[2.915s] writing top-level names to ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/top_level.txt
+[2.922s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.922s]   warnings.warn(
+[2.922s] reading manifest file '../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[2.923s] writing manifest file '../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info/SOURCES.txt'
+[2.923s] running build
+[2.923s] running build_py
+[2.923s] running install
+[2.923s] running install_lib
+[2.925s] running install_data
+[2.926s] running install_egg_info
+[2.930s] removing '/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages/br2_fsm_bumpgo_py-0.0.0-py3.10.egg-info' (and everything under it)
+[2.932s] Copying ../../../build/br2_fsm_bumpgo_py/br2_fsm_bumpgo_py.egg-info to /home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages/br2_fsm_bumpgo_py-0.0.0-py3.10.egg-info
+[2.933s] running install_scripts
+[2.977s] Installing bump_go_ex1 script to /home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+[2.977s] Installing bump_go_main script to /home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/br2_fsm_bumpgo_py
+[2.978s] writing list of installed files to '/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/install.log'
+[3.036s] Invoked command in '/home/simone/bookros2_ws/src/book_ros2/br2_fsm_bumpgo_py' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/prefix_override:/home/simone/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/br2_fsm_bumpgo_py build --build-base /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/build install --record /home/simone/bookros2_ws/build/br2_fsm_bumpgo_py/install.log --single-version-externally-managed

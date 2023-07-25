@@ -1,0 +1,24 @@
+[0.048s] Invoking command in '/home/simone/bookros2_ws/build/tiago_2dnav': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/tiago_2dnav -- -j6 -l6
+[0.118s] Invoked command in '/home/simone/bookros2_ws/build/tiago_2dnav' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simone/bookros2_ws/build/tiago_2dnav -- -j6 -l6
+[0.155s] Invoking command in '/home/simone/bookros2_ws/build/tiago_2dnav': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/tiago_2dnav
+[0.164s] -- Install configuration: ""
+[0.165s] -- Execute custom install script
+[0.166s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/launch/tiago_nav_bringup.launch.py
+[0.167s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/launch/tiago_sim_nav_bringup.launch.py
+[0.168s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/params/tiago_remappings.yaml
+[0.170s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/ament_index/resource_index/package_run_dependencies/tiago_2dnav
+[0.172s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/ament_index/resource_index/parent_prefix_path/tiago_2dnav
+[0.172s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/environment/ament_prefix_path.sh
+[0.173s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/environment/ament_prefix_path.dsv
+[0.175s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/environment/path.sh
+[0.176s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/environment/path.dsv
+[0.177s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/local_setup.bash
+[0.178s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/local_setup.sh
+[0.179s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/local_setup.zsh
+[0.180s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/local_setup.dsv
+[0.181s] -- Symlinking: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/package.dsv
+[0.186s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/ament_index/resource_index/packages/tiago_2dnav
+[0.186s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/cmake/tiago_2dnavConfig.cmake
+[0.186s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/cmake/tiago_2dnavConfig-version.cmake
+[0.186s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/tiago_2dnav/share/tiago_2dnav/package.xml
+[0.187s] Invoked command in '/home/simone/bookros2_ws/build/tiago_2dnav' returned '0': AMENT_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/home/simone/bookros2_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simone/bookros2_ws/install/pmb2_2dnav:/home/simone/bookros2_ws/install/pmb2_maps:/home/simone/bookros2_ws/install/pmb2_laser_sensors:/opt/ros/humble PYTHONPATH=/home/simone/bookros2_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simone/bookros2_ws/build/tiago_2dnav

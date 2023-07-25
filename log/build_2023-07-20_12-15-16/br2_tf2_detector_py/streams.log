@@ -1,0 +1,35 @@
+[1.022s] Invoking command in '/home/simone/bookros2_ws/build/br2_tf2_detector_py': PYTHONPATH=/home/simone/bookros2_ws/build/br2_tf2_detector_py/prefix_override:/home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/br2_tf2_detector_py/build
+[1.360s] running develop
+[1.361s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.361s]   warnings.warn(
+[1.366s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.366s]   warnings.warn(
+[1.443s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.444s]   warnings.warn(
+[1.444s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.444s]   warnings.warn(
+[1.646s] Invoked command in '/home/simone/bookros2_ws/build/br2_tf2_detector_py' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/br2_tf2_detector_py/prefix_override:/home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/simone/bookros2_ws/build/br2_tf2_detector_py/build
+[1.646s] Invoking command in '/home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector_py': PYTHONPATH=/home/simone/bookros2_ws/build/br2_tf2_detector_py/prefix_override:/home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/br2_tf2_detector_py build --build-base /home/simone/bookros2_ws/build/br2_tf2_detector_py/build install --record /home/simone/bookros2_ws/build/br2_tf2_detector_py/install.log --single-version-externally-managed
+[1.953s] running egg_info
+[1.954s] writing ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/PKG-INFO
+[1.954s] writing dependency_links to ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/dependency_links.txt
+[1.954s] writing entry points to ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/entry_points.txt
+[1.955s] writing requirements to ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/requires.txt
+[1.955s] writing top-level names to ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/top_level.txt
+[1.957s] reading manifest file '../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/SOURCES.txt'
+[1.958s] writing manifest file '../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info/SOURCES.txt'
+[1.958s] running build
+[1.958s] running build_py
+[1.958s] running install
+[1.958s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.959s]   warnings.warn(
+[1.959s] running install_lib
+[1.960s] running install_data
+[1.961s] running install_egg_info
+[1.964s] removing '/home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages/br2_tf2_detector_py-0.0.0-py3.10.egg-info' (and everything under it)
+[1.965s] Copying ../../../build/br2_tf2_detector_py/br2_tf2_detector_py.egg-info to /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages/br2_tf2_detector_py-0.0.0-py3.10.egg-info
+[1.971s] running install_scripts
+[1.989s] Installing obstacle_detector_node script to /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/br2_tf2_detector_py
+[1.989s] Installing obstacle_monitor_node script to /home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/br2_tf2_detector_py
+[1.990s] writing list of installed files to '/home/simone/bookros2_ws/build/br2_tf2_detector_py/install.log'
+[2.051s] Invoked command in '/home/simone/bookros2_ws/src/book_ros2/br2_tf2_detector_py' returned '0': PYTHONPATH=/home/simone/bookros2_ws/build/br2_tf2_detector_py/prefix_override:/home/simone/bookros2_ws/install/br2_tf2_detector_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/br2_tf2_detector_py build --build-base /home/simone/bookros2_ws/build/br2_tf2_detector_py/build install --record /home/simone/bookros2_ws/build/br2_tf2_detector_py/install.log --single-version-externally-managed

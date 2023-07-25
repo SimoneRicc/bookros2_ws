@@ -1,0 +1,32 @@
+[0.522s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_laser_sensors': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_laser_sensors -- -j6 -l6
+[0.576s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_laser_sensors' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simone/bookros2_ws/build/pmb2_laser_sensors -- -j6 -l6
+[0.623s] Invoking command in '/home/simone/bookros2_ws/build/pmb2_laser_sensors': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_laser_sensors
+[0.635s] -- Install configuration: ""
+[0.636s] -- Execute custom install script
+[0.639s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick-551_filter.yaml
+[0.640s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick-561_filter.yaml
+[0.640s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick-571_filter.yaml
+[0.641s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick_tim551_laser.yaml
+[0.641s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick_tim561_laser.yaml
+[0.643s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/config/sick_tim571_laser.yaml
+[0.653s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/launch/laser.launch.py
+[0.654s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/launch/laser_filters.launch.py
+[0.654s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/launch/sick-551_laser.launch.py
+[0.655s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/launch/sick-561_laser.launch.py
+[0.656s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/launch/sick-571_laser.launch.py
+[0.657s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/ament_index/resource_index/package_run_dependencies/pmb2_laser_sensors
+[0.658s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/ament_index/resource_index/parent_prefix_path/pmb2_laser_sensors
+[0.658s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/environment/ament_prefix_path.sh
+[0.659s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/environment/ament_prefix_path.dsv
+[0.660s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/environment/path.sh
+[0.661s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/environment/path.dsv
+[0.663s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/local_setup.bash
+[0.666s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/local_setup.sh
+[0.667s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/local_setup.zsh
+[0.668s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/local_setup.dsv
+[0.668s] -- Symlinking: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/package.dsv
+[0.668s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/ament_index/resource_index/packages/pmb2_laser_sensors
+[0.669s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/cmake/pmb2_laser_sensorsConfig.cmake
+[0.669s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/cmake/pmb2_laser_sensorsConfig-version.cmake
+[0.670s] -- Up-to-date symlink: /home/simone/bookros2_ws/install/pmb2_laser_sensors/share/pmb2_laser_sensors/package.xml
+[0.727s] Invoked command in '/home/simone/bookros2_ws/build/pmb2_laser_sensors' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simone/bookros2_ws/build/pmb2_laser_sensors
